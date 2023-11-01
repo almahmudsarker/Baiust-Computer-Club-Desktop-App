@@ -22,6 +22,22 @@ Constraints
 •	Compatibility with existing BAIUST systems and infrastructure
 •	Compliance with relevant laws and regulations
 
+
+![alt text](https://i.ibb.co/b5pqpCZ/00.jpg)
+![alt text](https://i.ibb.co/0rhJ0gW/1.jpg)
+![alt text](https://i.ibb.co/HH5B6Ks/2.jpg)
+![alt text](https://i.ibb.co/pwNC8CX/3.jpg)
+![alt text](https://i.ibb.co/ZdtfCPw/4.jpg)
+![alt text](https://i.ibb.co/GHGXJyN/5.jpg)
+![alt text](https://i.ibb.co/HXMJv0c/6.jpg)
+![alt text](https://i.ibb.co/w4Bf42k/7.jpg)
+![alt text](https://i.ibb.co/pQNnGcC/image.jpg)
+![alt text](https://i.ibb.co/n80BFRK/01.jpg)
+![alt text](https://i.ibb.co/hfXt8P3/02.jpg)
+![alt text](https://i.ibb.co/yXMcnyw/03.jpg)
+![alt text](https://i.ibb.co/LZq39Sc/04.jpg)
+
+
 *********** Specifications *************
 
 Login and Registration
